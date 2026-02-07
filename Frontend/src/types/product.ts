@@ -1,8 +1,6 @@
-type Product = {
+export type Product = {
   id: number;
   name: string;
-  description: string;
   image: string;
+  description: string;
 };
-
-export default Product;
