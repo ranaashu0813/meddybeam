@@ -1,4 +1,5 @@
-import type Product from "../types/product";
+import type { Product } from "../types/product";
+
 import image1 from "../assets/i1.jpeg";
 import image2 from "../assets/i2.jpeg";
 import image3 from "../assets/i3.jpeg";
